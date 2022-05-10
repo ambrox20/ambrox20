@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love Lo-fi music and I listen to it every day.
 - 👯 I’m looking to collaborate on Youtube (I have a blog about life in Ottawa, ON. :video_camera:)
 <div align="center">
-#⚡️🔗 https://www.youtube.com/LivinglaVidaVLOG 🔗 ⚡️
+  <h1>⚡️🔗 https://www.youtube.com/LivinglaVidaVLOG 🔗 ⚡️</h1>
 </div>
 
 <!--- - 🌱 I’m currently learning Java, SQL, CMD Script, HTML, CSS, JavaScript and Shell Scrip. --->

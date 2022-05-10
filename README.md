@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Lo-fi music and I listen to it every day.
 - 👯 I’m looking to collaborate on Youtube (I have a blog about life in Ottawa:video_camera:) 
-## https://www.youtube.com/LivinglaVidaVLOG
+# https://www.youtube.com/LivinglaVidaVLOG
 
 <!--- - 🌱 I’m currently learning Java, SQL, CMD Script, HTML, CSS, JavaScript and Shell Scrip. --->
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ambrox20
-- 👀 I’m interested in Computer Programming (international student in Canada!).
+- 👀 I’m interested in software developer (international student in Canada!).
 - 🌱 I’m currently learning Java, SQL, CMD Script, HTML, CSS, JavaScript and Shell Scrip.
 - 💞️ I’m looking to collaborate in projects to learn more about programing (I like web :D)
 - 📫 How to reach me: pedr0021@algonquinlive.com

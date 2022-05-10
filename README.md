@@ -22,4 +22,8 @@ ambrox20/ambrox20 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+## 👀 Stats
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=ambrox20&count_private=true&show_icons=true&hide=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrox20&layout=compact)

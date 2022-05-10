@@ -2,6 +2,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ambrox20.ambrox20)](https://github.com/ambrox20)
 [![GitHub followers](https://img.shields.io/github/followers/ambrox20.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ambrox20?tab=follewers)
 
+![](aj-01.png)
+
 ## Hello , I’m Andres Pedroza!! 👋 
 
 

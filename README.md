@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Lo-fi music and I listen to it every day.
 - 👯 I’m looking to collaborate on Youtube (I have a blog about life in Ottawa:video_camera:) 
-# https://www.youtube.com/LivinglaVidaVLOG
+<mark> https://www.youtube.com/LivinglaVidaVLOG </mark>
 
 <!--- - 🌱 I’m currently learning Java, SQL, CMD Script, HTML, CSS, JavaScript and Shell Scrip. --->
 <!---
@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:ambrox20@gmail.com">![ambrox20@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="<www.linkedin.com/in/andres-jose-pedroza-fontalvo-39778782>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-### Show some ❤️ by starring some of the repositories!
+### Have a great day~!! ❤️

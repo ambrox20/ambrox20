@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 ## 🪐 Connect
 
 <a href="mailto:ambrox20@gmail.com">![ambrox20@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="www.linkedin.com/in/andres-jose-pedroza-fontalvo-39778782>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/andres-jose-pedroza-fontalvo-39778782/?locale=en_US">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 ### Have a great day~!! ❤️

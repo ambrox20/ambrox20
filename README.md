@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 ### Have a great day~!! ❤️
 
 <div align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="320" />
 </div>

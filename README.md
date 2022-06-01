@@ -13,6 +13,13 @@
 - 📫 How to reach me: pedr0021@algonquinlive.com / ambrox20@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Lo-fi music and I listen to it every day.
+
+![jake](jake-lofi.gif)
+
+<!-- <div align="center">
+  <img alt="jake" scr="jake-lofi.gif" /> -->
+<!-- </div> -->
+  
 - 👯 I’m looking to collaborate on Youtube (I have a blog about life in Ottawa, ON. :video_camera:)
 <div align="center">
   <h1>⚡️ 🔗<a href="https://www.youtube.com/LivinglaVidaVLOG" target="_blank">Follow my YouTube Channel!!</a>🔗 ⚡️</h1>

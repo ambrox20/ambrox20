@@ -1,4 +1,4 @@
-![me](aj-01.png)
+![me](Portada.png)
 
 ## Hello , I’m Andres Pedroza!! 👋 
 

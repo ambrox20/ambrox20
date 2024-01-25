@@ -5,7 +5,9 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ambrox20.ambrox20)](https://github.com/ambrox20)
 [![GitHub followers](https://img.shields.io/github/followers/ambrox20.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ambrox20?tab=follewers)
 
-- 🔭 I’m currently a Co-Op student in the RPDU (RAPID PROTOTYPE DESIGN UNIT).
+<a href="ambrox20.github.io/folder/document.pdf" target="_blank">PDF.</a>
+
+- 🔭 I’m currently a Full Time System Analyst in the DSIU (Digital Solutions and Innovation Unit).
 - 🌱 I’m currently learning more about PowerApps.
 - 👀 I’m interested in software developer (international student in Canada!).
 - 💞️ I’m looking to collaborate in projects to learn more about programing (I like web :D)

@@ -5,7 +5,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ambrox20.ambrox20)](https://github.com/ambrox20)
 [![GitHub followers](https://img.shields.io/github/followers/ambrox20.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ambrox20?tab=follewers)
 
-<a href="ambrox20.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<a href="Andres Pedroza Portfolio.pdf" target="_blank">Portafolio</a>
 
 - 🔭 I’m currently a Full Time System Analyst in the DSIU (Digital Solutions and Innovation Unit).
 - 🌱 I’m currently learning more about PowerApps.

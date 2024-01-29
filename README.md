@@ -7,9 +7,9 @@
 
 <a href="Andres Pedroza Portfolio.pdf" target="_blank">Portafolio</a>
 
-- 🔭 I’m currently a Full Time System Analyst in the DSIU (Digital Solutions and Innovation Unit).
-- 🌱 I’m currently learning more about PowerApps.
-- 👀 I’m interested in software developer (international student in Canada!).
+- 🔭 I’m woking as a Full Time System Analyst in the Digital Solutions and Innovation Unit (DSIU).
+- 🌱 I’m exploring and testing the boundaries of Power Platform.
+- 👀 My interested for software developer is unmatch.
 - 💞️ I’m looking to collaborate in projects to learn more about programing (I like web :D)
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: pedr0021@algonquinlive.com / ambrox20@gmail.com

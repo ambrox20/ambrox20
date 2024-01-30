@@ -12,7 +12,7 @@
 - 👀 My interested for software developer is unmatch.
 - 💞️ I’m looking to collaborate in projects to learn more about programing (I like web :D)
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: pedr0021@algonquinlive.com / ambrox20@gmail.com
+- 📫 How to reach me: ambrox20@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Lo-fi music and I listen to it every day.
 
